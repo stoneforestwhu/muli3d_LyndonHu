@@ -1,0 +1,26 @@
+﻿  raytracer.cpp
+  mycamera.cpp
+  main.cpp
+  app.cpp
+  Generating Code...
+app.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+libpng.lib(pngread.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(png.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngrtran.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngrio.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngget.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(inflate.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngmem.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngerror.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngrutil.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngtrans.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(crc32.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(infblock.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(adler32.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(zutil.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(pngset.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(infcodes.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(inftrees.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(infutil.obj) : error LNK2026: module unsafe for SAFESEH image.
+libpng.lib(inffast.obj) : error LNK2026: module unsafe for SAFESEH image.
+Debug\raytracer.exe : fatal error LNK1281: Unable to generate SAFESEH image.
